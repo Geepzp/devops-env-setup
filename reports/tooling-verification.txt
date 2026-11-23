@@ -1,0 +1,54 @@
+====================================
+AI DEVOPS ENVIRONMENT VERIFICATION
+====================================
+Date: Mon Nov 23 11:46:26 AM EST 2026
+Operating System:
+Description:	Ubuntu 25.04
+
+===== GIT =====
+git version 2.52.0
+===== DOCKER =====
+Docker version 28.2.2, build 28.2.2-0ubuntu1~25.04.1
+===== DOCKER COMPOSE =====
+docker: unknown command: docker compose
+
+Run 'docker --help' for more information
+===== KUBERNETES =====
+Client Version: v1.37.2
+Kustomize Version: v5.8.1
+===== MINIKUBE =====
+minikube version: v1.39.0
+commit: 7a9f6a841470a207de8cf4bafcccee0969d8ba10
+===== TERRAFORM =====
+Terraform v1.17.2
+on linux_amd64
+
+===== ANSIBLE =====
+ansible [core 2.18.1]
+  config file = None
+  configured module search path = ['/home/osboxes/.ansible/plugins/modules', '/usr/share/ansible/plugins/modules']
+  ansible python module location = /usr/lib/python3/dist-packages/ansible
+  ansible collection location = /home/osboxes/.ansible/collections:/usr/share/ansible/collections
+  executable location = /usr/bin/ansible
+  python version = 3.13.3 (main, Jan  8 2026, 12:03:54) [GCC 14.2.0] (/usr/bin/python3)
+  jinja version = 3.1.5
+  libyaml = True
+===== AWS CLI =====
+aws-cli/2.42.1 Python/3.14.10 Linux/6.14.0-37-generic exe/x86_64.ubuntu.25
+===== AZURE CLI =====
+{
+  "azure-cli": "2.93.0",
+  "azure-cli-core": "2.93.0",
+  "azure-cli-telemetry": "1.1.0",
+  "extensions": {}
+}
+===== NODE.JS =====
+v26.13.1
+===== NPM =====
+11.20.0
+===== JQ =====
+jq-1.7
+===== VS CODE =====
+1.147.0
+8a14f0cc1b08d531eb83255ea3764ae22aa932b5
+x64
